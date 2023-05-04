@@ -1,0 +1,14 @@
+apples
+bananas
+strawberries
+rasberries
+blakberries
+kiwis
+guavas
+dragon fruit
+star fruit
+pears
+grapes
+tomatoes
+potatoes
+avacados
